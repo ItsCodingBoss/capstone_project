@@ -1,0 +1,15 @@
+text|author|platform|date|location|position
+"We need better healthcare for every citizen! #Healthcare #USA"|John  Smith|Twitter|2013-06-01|Washington|Senator
+"Today we celebrate progress in education. #Education #Future"|Sarah Jones|Facebook|2013-06-01|California|Representative
+"This economic policy is disappointing. #Economy #Politics"|John Smith|Twitter|2013-06-01|Washington|Senator
+"Working together for a stronger country! #USA #Progress"|David Brown|Facebook|2013-06-01|Texas|Representative
+"Healthcare reform must be our priority. #Healthcare"|Mary Wilson|Twitter|2013-06-01|New York|Senator
+"Another failure from the government. #Politics #Economy"|Sarah Jones|Twitter|2013-06-01|California|Representative
+"Great opportunities for our young generation! #Education"|David Brown|Twitter|2013-06-02|Texas|Representative
+"We must protect our environment. #Climate #Future"|Mary Wilson|Facebook|2013-06-02|New York|Senator
+"This is an excellent achievement for our country! #USA"|John Smith|Facebook|2013-06-02|Washington|Senator
+"The new policy creates serious problems. #Politics"|Sarah Jones|Facebook|2013-06-02|California|Representative
+"Investing in education is investing in our future. #Education #Future"|Mary Wilson|Twitter|2013-06-02|New York|Senator
+"Together we can build a better economy! #Economy #Progress"|David Brown|Facebook|2013-06-02|Texas|Representative
+
+
